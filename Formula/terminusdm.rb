@@ -10,6 +10,6 @@ class TerminusDM < Formula
 
 
   def install
-    bin.install "espanso"
+    bin.install "terminusdm"
   end
 end
